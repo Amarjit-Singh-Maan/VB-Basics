@@ -1,0 +1,10 @@
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\bin\Debug\ProgProjProb-2-Visual Basic.exe.config
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\bin\Debug\ProgProjProb-2-Visual Basic.exe
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\bin\Debug\ProgProjProb-2-Visual Basic.pdb
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\bin\Debug\ProgProjProb-2-Visual Basic.xml
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\obj\Debug\ProgProjProb-2-Visual Basic.vbproj.GenerateResource.Cache
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\obj\Debug\ProgProjProb-2-Visual Basic.exe
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\obj\Debug\ProgProjProb-2-Visual Basic.xml
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\obj\Debug\ProgProjProb-2-Visual Basic.pdb
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-2-Visual Basic\ProgProjProb-2-Visual Basic\obj\Debug\WindowsApplication2.frmBill.resources

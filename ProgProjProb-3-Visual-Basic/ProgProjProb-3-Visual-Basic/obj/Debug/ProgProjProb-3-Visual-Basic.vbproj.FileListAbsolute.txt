@@ -1,0 +1,10 @@
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\bin\Debug\ProgProjProb-3-Visual-Basic.exe.config
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\bin\Debug\ProgProjProb-3-Visual-Basic.exe
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\bin\Debug\ProgProjProb-3-Visual-Basic.pdb
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\bin\Debug\ProgProjProb-3-Visual-Basic.xml
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\obj\Debug\WindowsApplication1.frmOrder.resources
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\obj\Debug\ProgProjProb-3-Visual-Basic.vbproj.GenerateResource.Cache
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\obj\Debug\ProgProjProb-3-Visual-Basic.exe
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\obj\Debug\ProgProjProb-3-Visual-Basic.xml
+C:\Users\Amarjit\Documents\Visual Studio 2012\Projects\ProgProjProb-3-Visual-Basic\ProgProjProb-3-Visual-Basic\obj\Debug\ProgProjProb-3-Visual-Basic.pdb
